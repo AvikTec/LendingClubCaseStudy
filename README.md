@@ -42,7 +42,7 @@
 <
 
 ## Contributer
-- Bhasa Mahapatra and
+- Bhasa Mahapatra 
 - Avik Kundu
 
 
